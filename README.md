@@ -59,7 +59,7 @@ A real-time collaborative document editing web application, inspired by Google D
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/rautela-abhiishek/google-docs-clone.git
-cd google-docs-clone
+cd build-your-docs
 ```
 
 ### 2️⃣ Install Dependencies
